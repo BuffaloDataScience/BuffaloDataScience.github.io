@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://buffalodatascience.github.iohttps://buffalodatascience.github.io/tidy_data/</loc>
+<loc>https://buffalodatascience.github.io/tidy_data/</loc>
 <lastmod>2016-06-27T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://buffalodatascience.github.iohttps://buffalodatascience.github.io/survival_analysis/</loc>
+<loc>https://buffalodatascience.github.io/survival_analysis/</loc>
 <lastmod>2016-06-27T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://buffalodatascience.github.iohttps://buffalodatascience.github.io/about/</loc>
+<loc>https://buffalodatascience.github.io/about/</loc>
 </url>
 <url>
-<loc>https://buffalodatascience.github.iohttps://buffalodatascience.github.io/</loc>
+<loc>https://buffalodatascience.github.io/</loc>
 </url>
 <url>
-<loc>https://buffalodatascience.github.iohttps://buffalodatascience.github.io/tags/</loc>
+<loc>https://buffalodatascience.github.io/tags/</loc>
 </url>
 </urlset>
